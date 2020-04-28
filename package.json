@@ -1,0 +1,29 @@
+{
+  "name": "@adambirgenheier/README.md-Generator.node",
+  "version": "1.0.0",
+  "description": "A CLI to bootstrap my porjects",
+  "main": "src/index.js",
+  "bin": {
+    "@adambirgenheier/README.md-Generator.node": "bin/README.md-Generator.node",
+    "README.md-Generator.node": "bin/README.md-Generator.node"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adambear1/README.md-Generator.node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adambear1/README.md-Generator.node/issues"
+  },
+  "homepage": "https://github.com/Adambear1/README.md-Generator.node#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dedent": "^0.7.0",
+    "inquirer": "^7.1.0"
+  }
+}
