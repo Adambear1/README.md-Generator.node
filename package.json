@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Adambear1/README.md-Generator.node#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dedent": "^0.7.0",
     "inquirer": "^7.1.0"
   }
